@@ -1,0 +1,9 @@
+*.class
+.gradle/
+build/
+.hg/
+bin/
+.hgignore
+.classpath
+.project
+.settings/
